@@ -1,5 +1,5 @@
 # BWAMov
-ini adalah project class build with angga bersama robby dianputra, kelas ini membahas mengenai cara mendevelopment aplikasi android mulai dari design
+ini adalah project untuk proyek akhir event JuaraAndroid
 
 ## Fiture
 1. Splashscreen
@@ -9,6 +9,3 @@ ini adalah project class build with angga bersama robby dianputra, kelas ini mem
 
 ## Teknologi
 1. Firebase
-
-## Source
-Robby Dianputra
